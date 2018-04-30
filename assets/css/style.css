@@ -2,3 +2,31 @@
 /* inhance all of the buttons */
 /* make the font and the buttons bigger once you hover over them */
 /* make all items bigger than there starting size */
+body, html {
+    height: 100%;
+    
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/04/two_million_stars_in_our_galaxy/16899659-1-eng-GB/Two_million_stars_in_our_Galaxy.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* header {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+p {
+    color: white;
+    font-weight: bold;
+} */
